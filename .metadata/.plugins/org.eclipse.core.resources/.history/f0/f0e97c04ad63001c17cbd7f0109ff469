@@ -1,0 +1,5 @@
+package com.restfull.bean;
+
+public class Employee {
+
+}
